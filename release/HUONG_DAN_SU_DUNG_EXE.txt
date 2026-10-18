@@ -1,0 +1,17 @@
+CÁCH SỬ DỤNG PHẦN MỀM TỔNG HỢP HẠNH KIỂM / RÈN LUYỆN
+---------------------------------------------------
+
+1. Cách mở ứng dụng:
+- Bấm đúp trực tiếp vào file HeThong_HanhKiem_RenLuyen_TuyenBui.exe để mở ứng dụng. Không cần cài đặt Python.
+- Lưu ý: Lần đầu mở, Windows Defender có thể hiện cảnh báo "Windows protected your PC" do file chưa được ký số điện tử. Bạn hãy bấm "More info" (Thông tin thêm) -> "Run anyway" (Vẫn chạy).
+
+2. Cách chọn thư mục:
+- Bước 1: Bấm "Chọn file VnEdu..." hoặc "Chọn thư mục..." để chỉ định nguồn dữ liệu (báo cáo vi phạm, file mẫu...).
+- Bước 2: Bấm "Chọn nơi lưu..." để chọn vị trí lưu file Excel kết quả tổng hợp. File kết quả luôn được xuất vào thư mục bạn đã chọn.
+
+3. Lưu ý: 
+- Nếu bạn chạy lại chương trình, vui lòng đóng file Excel kết quả trước khi chạy để tránh lỗi không thể ghi đè file.
+
+4. Bảo mật dữ liệu:
+- Mọi dữ liệu học sinh đều được xử lý hoàn toàn cục bộ (offline) trên máy tính của bạn.
+- Ứng dụng không gửi hay tải bất kỳ thông tin nào lên internet, đảm bảo an toàn tuyệt đối.

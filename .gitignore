@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build files
+build/
+
+# Archives & Installers (keep repo lightweight)
+*.rar
+*.zip
+installer/python-*.exe
+installer/wheels/
+
+# Local license cache & sensitive data
+.license_cache.json
+.pytest_cache/
+.env
+
+# User outputs
+outputs/
+
+# Virtual environment
+.venv/
+env/
+venv/

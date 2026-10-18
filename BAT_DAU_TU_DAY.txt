@@ -1,0 +1,5 @@
+1. Open this folder in Codex local.
+2. Open PROMPT_TIEP_TUC.md.
+3. Copy the complete prompt and send it in the new local task.
+4. Keep sources_original unchanged. Use work for temporary files and outputs for final deliverables.
+
